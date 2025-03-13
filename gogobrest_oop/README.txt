@@ -1,0 +1,1 @@
+This project was created for convenient and quick viewing of public transport schedules. The bot could automatically determine the stop you are at by GPS, view the schedule for a specific route, had favorite routes, delayed notifications about the schedule for a certain time. Unfortunately, the project was not completed, as an application was released that implemented these tasks
